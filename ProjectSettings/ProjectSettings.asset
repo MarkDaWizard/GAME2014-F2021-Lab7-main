@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: GeorgeBrownCollege
-  productName: GAME2014-F2021-Lab7
+  companyName: PhuPham
+  productName: GAME2014-Phu-Pham-Lab7
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -155,7 +155,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: ca.GeorgeBrownCollege.GAME2014F2021Lab7
     Lumin: com.DefaultCompany.com.unity.template.mobile2D
-    Standalone: ca.GeorgeBrownCollege.GAME2014-F2021-Lab7
+    Standalone: com.PhuPham.GAME2014-Phu-Pham-Lab7
     iPhone: com.DefaultCompany.com.unity.template.mobile2D
     tvOS: com.DefaultCompany.com.unity.template.mobile2D
   buildNumber:
