@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class DeathPlaneController : MonoBehaviour
 {
     public Transform playerSpawnPoint;
